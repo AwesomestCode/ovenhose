@@ -1,10 +1,5 @@
-boilerpipe
+ovenhose
 ==========
 
-Boilerplate Removal and Fulltext Extraction from HTML pages
-
-NOTE: This is a work-in-progress transmit from Google Code.
-
-The latest stable version of boilerpipe is available at [`https://code.google.com/p/boilerpipe`](https://code.google.com/p/boilerpipe).
-
-
+A modernised port of Christian Kohlschütter's [boilerpipe](https://github.com/kohlschutter/boilerpipe), 
+a library for boilerplate removal and fulltext extraction from HTML pages.
